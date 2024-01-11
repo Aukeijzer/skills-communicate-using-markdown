@@ -1,3 +1,5 @@
+theme: jekyll-theme-THEME-NAME
+
 # h1 header
 ## h2 header
 ### h3 header
